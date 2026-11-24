@@ -253,3 +253,7 @@ All 12 reports are accessible from the sidebar and Reports page (`?q=1` through 
 
 Developed for academic purposes. Not licensed for commercial use.
 
+
+---
+
+Author: **Muhammad Taha** ([@Taha-1Git](https://github.com/Taha-1Git))
